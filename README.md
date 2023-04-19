@@ -4,6 +4,10 @@ A tool for tracking why you are holding a grudge.
 
 Ever forget why you are boycotting a company or pissed off with someone? This tool allows you to track why you are angry so you never forget.
 
+> “Forgive your enemies, but never forget their names.”
+> 
+> –John F Kennedy
+
 ## Planned Features
 
 - [ ] Allow description and severity for grudges
